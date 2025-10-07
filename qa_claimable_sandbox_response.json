@@ -1,0 +1,24 @@
+{
+    "id": "clmsbx_test_61TNhG7xeQYQl1M5m16TNKQO0QSQCSderg9R3051sGq8",
+    "object": "v2.core.claimable_sandbox",
+    "claim_url": "https://qa-dashboard.stripe.com/claim_sandbox/YWNjdF8xU0VKSWlRRDE2RWp1dExtLDE3NjAxNDIzNzgv100e2nymYXQ",
+    "claimed_at": null,
+    "created": "2025-10-04T00:26:19.000Z",
+    "expires_at": "2025-12-03T00:26:16.000Z",
+    "prefill": {
+      "country": "US",
+      "email": "tomchen+qa@stripe.com",
+      "name": ""
+    },
+    "sandbox_details": {
+      "account": "acct_1SEJIiQD16EjutLm",
+      "api_keys": {
+        "mcp": "",
+        "publishable": "",
+        "secret": ""
+      },
+      "owner_account": null
+    },
+    "status": "unclaimed",
+    "livemode": false
+  }
